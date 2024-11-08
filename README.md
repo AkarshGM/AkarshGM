@@ -11,7 +11,7 @@ Favourite Quote: **"In God we trust. All others must bring data." — W. Edwards
 
 ---
 
-## Tools I work with:
+## I work with:
 
 ### Languages:
 - **MySQL / SQL Server / PostgreSQL**
