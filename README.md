@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Akarsh G M!
 
-I am a **Certified Data Analyst** from **NIIT**, passionate about analysing Data and Solving Problems. Always curious about the hidden story within a dataset!!
+I am a **Certified Data Analyst** from **NIIT**, passionate about Analysing Data and Solving Problems. Always curious about the hidden story within a Dataset!!
 
 ---
 Favourite Quote: **"In God we trust. All others must bring data." — W. Edwards Deming**
