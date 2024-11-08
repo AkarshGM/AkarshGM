@@ -22,6 +22,7 @@ Favourite Quote: **"In God we trust. All others must bring data." — W. Edwards
 - **Tableau Public (LOD Expressions, Parameters, Action Filters, Calculated Fields, Sets & Groups, Time Series Analysis etc)**
 - **Power BI Desktop**
 - **Advanced Excel (Vlookup, Xlookup, Pivot-Tables, Macros & Automation, Dashboards)**
+- **Figma**
 
 ## Currently Learning:
 - **Machine Learning** (`Scikit-Learn`, `TensorFlow`)
