@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Akarsh G M!
 
-I am a **Certified Data Analyst** from **NIIT**, passionate about Analysing Data and Solving Problems. Always curious about the **hidden story within a Dataset**!!
+**I'm a Certified Data Analyst from NIIT, passionate about Analysing Data and Solving Problems. Always curious about the hidden story within a Dataset**!! 
 
+Data Analysis | Data Cleaning | Data Visualisation | Data Manipulation | Business Analysis | EDA | Story Telling | Statistical Analysis | ETL
 ---
 Favourite Quote: **"In God we trust. All others must bring data." — W. Edwards Deming**
 
@@ -18,14 +19,16 @@ Favourite Quote: **"In God we trust. All others must bring data." — W. Edwards
 - **Python** (**Libraries**: `Numpy`,`Pandas`,`Matplotlib`,`Seaborn`)
  
 ### BI & Visualization:
-- **Tableau Public**
+- **Tableau Public (LOD Expressions, Parameters, Action Filters, Calculated Fields, Sets & Groups, Time Series Analysis etc)**
 - **Power BI Desktop**
+- **Advanced Excel (Vlookup, Xlookup, Pivot-Tables, Macros & Automation, Dashboards)**
 
 ## Currently Learning:
 - **Machine Learning** (`Scikit-Learn`, `TensorFlow`)
 - **Advanced SQL Queries**
+- **Data Engineering**
 
-## Certifications
+## Certifications:
 - **Data Analyst Certificate from NIIT**
 - **HackerRank SQL (Intermediate) Certificate**
 
