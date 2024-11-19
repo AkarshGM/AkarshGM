@@ -2,7 +2,7 @@
 
 **I'm a Certified Data Analyst from NIIT, passionate about Analysing Data and Solving Problems. Always curious about the hidden story within a Dataset**!! 
 
-Data Analysis | Data Cleaning | Data Visualisation | Data Manipulation | Business Analysis | EDA | Story Telling | Statistical Analysis | ETL
+Data Analysis | Data Cleaning | Data Visualisation | Data Manipulation | Business Analysis | EDA | Story Telling | Statistical Analysis | Business Acumen
 ---
 Favourite Quote: **"In God we trust. All others must bring data." — W. Edwards Deming**
 
